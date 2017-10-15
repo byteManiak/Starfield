@@ -1,16 +1,10 @@
-#include <ctime>
 #include <cstdlib>
-#include <cmath>
+#include <ctime>
 #include <vector>
 #include <GL/glew.h>
 #include <GL/gl.h>
 #include <GL/glu.h>
 #include <GLFW/glfw3.h>
-#include <glm/glm.hpp>
-#include <glm/gtx/transform.hpp>
-#include <glm/mat4x4.hpp>
-#include <glm/gtc/matrix_transform.hpp>
-#include <glm/gtc/type_ptr.hpp>
 #include "texture.h"
 
 static const GLchar *vert[] =

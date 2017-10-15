@@ -5,8 +5,6 @@
 #include <GL/glew.h>
 #include <GL/gl.h>
 
-extern float tiem;
-
 class Texture
 {
 public:
