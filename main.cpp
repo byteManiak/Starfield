@@ -63,7 +63,7 @@ int main()
     glfwWindowHint(GLFW_CONTEXT_VERSION_MAJOR, 4);
     glfwWindowHint(GLFW_CONTEXT_VERSION_MINOR, 5);
 
-    GLFWwindow *window = glfwCreateWindow(640, 480, "OpenGL SuperBible", 0, 0);
+    GLFWwindow *window = glfwCreateWindow(640, 480, "Starfield", 0, 0);
     glfwMakeContextCurrent(window);
     glfwShowWindow(window);
 
